@@ -8,6 +8,7 @@
  import ai.*;
  import ai.abstraction.WorkerRush;
  import ai.abstraction.pathfinding.BFSPathFinding;
+ import ai.montecarlo.MonteCarlo;
  import com.jakegut.microrts.ExampleBot;
  import gui.PhysicalGameStatePanel;
 
@@ -24,16 +25,15 @@
  public class GameVisualSimulationTest {
      public static void main(String[] args) throws Exception {
          UnitTypeTable utt = new UnitTypeTable();
-         PhysicalGameState pgs = PhysicalGameState.load("maps/16x16/basesWorkers16x16.xml", utt);
+         PhysicalGameState pgs = PhysicalGameState.load("maps/8x8/basesWorkers8x8A.xml", utt);
 //        PhysicalGameState pgs = MapGenerator.basesWorkers8x8Obstacle();
 
          GameState gs = new GameState(pgs, utt);
-         int MAXCYCLES = 5000;
          int PERIOD = 20;
          boolean gameover = false;
 
 //         AI ai1 = new WorkerRush(utt, new BFSPathFinding());
-         AI ai1 = new ExampleBot(utt);
+         AI ai1 = new MonteCarlo(utt);
          AI ai2 = new RandomBiasedAI();
 
          JFrame w = PhysicalGameStatePanel.newVisualizer(gs,640,640,false,PhysicalGameStatePanel.COLORSCHEME_BLACK);
@@ -58,7 +58,7 @@
                      e.printStackTrace();
                  }
              }
-         }while(!gameover && gs.getTime()<MAXCYCLES);
+         }while(!gameover);
          ai1.gameOver(gs.winner());
          ai2.gameOver(gs.winner());
 
