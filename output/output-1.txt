@@ -1,0 +1,1291 @@
+
+[-1.0, -0.8680000000000001, -14.0]
+[-1.0, -0.8180000000000001, -14.0]
+[1.0, 0.748, 16.0]
+[-1.0, -0.712, -13.0]
+[1.0, 0.74, 12.0]
+[-1.0, -0.6539999999999999, -16.0]
+[1.0, 0.5840000000000001, 17.0]
+[-1.0, -0.51, -15.0]
+[1.0, 0.42399999999999993, 20.0]
+[1.0, 0.3959999999999999, 13.0]
+
+[-1.0, -0.8819999999999999, -16.0]
+[-1.0, -0.766, -14.0]
+[1.0, 0.6839999999999999, 12.0]
+[-1.0, -0.716, -13.0]
+[1.0, 0.6200000000000001, 17.0]
+[1.0, 0.5820000000000001, 15.0]
+[1.0, 0.3580000000000001, 12.0]
+[-1.0, -0.24, -12.0]
+[0.0, -0.1875, 12.0]
+[0.0, -0.28125, 18.0]
+
+[1.0, 0.728, 12.0]
+[1.0, 0.6419999999999999, 15.0]
+[-1.0, -0.6519999999999999, -11.0]
+[1.0, 0.6619999999999999, 15.0]
+[1.0, 0.528, 18.0]
+[-1.0, -0.4039999999999999, -11.0]
+[1.0, 0.3799999999999999, 21.0]
+[1.0, 0.31400000000000006, 22.0]
+[-1.0, -0.278, -13.0]
+[-1.0, -0.03600000000000003, -11.0]
+
+[-1.0, -0.8340000000000001, -15.0]
+[1.0, 0.6839999999999999, 14.0]
+[-1.0, -0.6779999999999999, -17.0]
+[1.0, 0.6040000000000001, 16.0]
+[1.0, 0.552, 20.0]
+[-1.0, -0.54, -13.0]
+
+[1.0, 0.8460000000000001, 12.0]
+[1.0, 0.746, 16.0]
+[1.0, 0.75, 12.0]
+[-1.0, -0.6619999999999999, -13.0]
+[-1.0, -0.6299999999999999, -14.0]
+[1.0, 0.5980000000000001, 15.0]
+[1.0, 0.4099999999999999, 14.0]
+[1.0, 0.47, 14.0]
+[-1.0, -0.32000000000000006, -11.0]
+[1.0, 0.17399999999999993, 13.0]
+
+[1.0, 0.746, 14.0]
+[1.0, 0.762, 17.0]
+[1.0, 0.752, 15.0]
+[-1.0, -0.726, -11.0]
+[1.0, 0.6439999999999999, 15.0]
+[1.0, 0.6499999999999999, 16.0]
+[1.0, 0.5800000000000001, 17.0]
+[1.0, 0.44599999999999995, 15.0]
+[-1.0, -0.45399999999999996, -2.0]
+[1.0, -0.15600000000000003, 10.0]
+
+[1.0, 0.758, 11.0]
+[-1.0, -0.742, -12.0]
+[1.0, 0.766, 10.0]
+[1.0, 0.6399999999999999, 15.0]
+[1.0, 0.5800000000000001, 10.0]
+[-1.0, -0.53, -14.0]
+[1.0, 0.46599999999999997, 14.0]
+[1.0, 0.3520000000000001, 13.0]
+[-1.0, -0.3959999999999999, -12.0]
+[-1.0, -0.3560000000000001, -12.0]
+
+[1.0, 0.8180000000000001, 15.0]
+[1.0, 0.754, 14.0]
+[-1.0, -0.748, -13.0]
+[1.0, 0.72, 13.0]
+[1.0, 0.6759999999999999, 13.0]
+[1.0, 0.5760000000000001, 18.0]
+[-1.0, -0.486, -1.0]
+[1.0, 0.502, 15.0]
+[1.0, 0.4139999999999999, 16.0]
+[-1.0, -0.3600000000000001, -13.0]
+
+[1.0, 0.784, 13.0]
+[1.0, 0.774, 10.0]
+[1.0, 0.766, 14.0]
+[-1.0, -0.748, -12.0]
+[1.0, 0.704, 17.0]
+[1.0, 0.69, 13.0]
+[1.0, 0.6499999999999999, 12.0]
+[-1.0, -0.46599999999999997, -1.0]
+[1.0, 0.3340000000000001, 10.0]
+[-1.0, -0.33000000000000007, -1.0]
+
+[1.0, 0.8160000000000001, 14.0]
+[1.0, 0.6619999999999999, 10.0]
+[1.0, 0.6319999999999999, 18.0]
+[1.0, 0.532, 16.0]
+[1.0, 0.43599999999999994, 12.0]
+[1.0, 0.3500000000000001, 14.0]
+[1.0, 0.21999999999999997, 23.0]
+[-1.0, -0.272, -12.0]
+[1.0, 0.21799999999999997, 11.0]
+[1.0, 0.262, 11.0]
+
+[1.0, 0.8420000000000001, 15.0]
+[-1.0, -0.766, -14.0]
+[1.0, 0.6160000000000001, 17.0]
+[1.0, 0.5800000000000001, 11.0]
+[1.0, 0.5740000000000001, 18.0]
+[1.0, 0.5860000000000001, 16.0]
+[1.0, 0.498, 10.0]
+[-1.0, -0.3720000000000001, -15.0]
+[-1.0, -0.32800000000000007, -12.0]
+[0.0, -0.15625, 10.0]
+
+[-1.0, -0.8999999999999999, -15.0]
+[1.0, 0.734, 12.0]
+[1.0, 0.6779999999999999, 12.0]
+[-1.0, -0.55, -16.0]
+[-1.0, -0.536, -13.0]
+[1.0, 0.44199999999999995, 16.0]
+[-1.0, -0.21399999999999997, -1.0]
+[-1.0, -0.18199999999999994, -13.0]
+[0.0, -0.015625, 1.0]
+[0.0, -0.15625, 10.0]
+
+[-1.0, -0.8380000000000001, -18.0]
+[1.0, 0.806, 13.0]
+[1.0, 0.764, 15.0]
+[-1.0, -0.6439999999999999, -1.0]
+[-1.0, -0.6020000000000001, -2.0]
+[-1.0, -0.5780000000000001, -4.0]
+[1.0, 0.3620000000000001, 13.0]
+[-1.0, -0.274, -14.0]
+[1.0, 0.22199999999999998, 13.0]
+[0.0, -0.015625, 1.0]
+
+[1.0, 0.766, 15.0]
+[-1.0, -0.736, -12.0]
+[1.0, 0.722, 12.0]
+[1.0, 0.706, 15.0]
+[1.0, 0.6859999999999999, 16.0]
+[1.0, 0.6060000000000001, 14.0]
+[-1.0, -0.6779999999999999, -2.0]
+[-1.0, -0.6759999999999999, -13.0]
+[-1.0, -0.6200000000000001, -13.0]
+[-1.0, -0.31800000000000006, -12.0]
+
+[-1.0, -0.756, -11.0]
+[-1.0, -0.762, -12.0]
+[-1.0, -0.78, -15.0]
+[1.0, 0.696, 21.0]
+[1.0, 0.6220000000000001, 12.0]
+[-1.0, -0.6399999999999999, -3.0]
+[1.0, 0.6140000000000001, 13.0]
+[-1.0, -0.3979999999999999, -15.0]
+[-1.0, -0.33000000000000007, -13.0]
+[0.0, -0.0, 0.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   15(10),    150: -1.4616000000000000e+01 (+0e+00,3e+01) |  5: 2.4e-01  0: 1.6e-01 | 1.5e-01 2.0e-01   1.66   | 1228.6  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.808, 11.0]
+[1.0, 0.742, 14.0]
+[1.0, 0.718, 11.0]
+[1.0, 0.6180000000000001, 14.0]
+[1.0, 0.52, 14.0]
+[1.0, 0.5860000000000001, 10.0]
+[1.0, 0.3580000000000001, 13.0]
+[1.0, 0.3340000000000001, 13.0]
+[0.0, -0.0, 0.0]
+[0.0, -0.3125, 20.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   16(10),    160: -1.0388000000000000e+01 (-4e+00,1e+01) |  5: 2.2e-01  0: 1.4e-01 | 1.3e-01 1.8e-01   1.73   | 1385.9  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[-1.0, -0.8160000000000001, -15.0]
+[-1.0, -0.8, -15.0]
+[-1.0, -0.716, -11.0]
+[1.0, 0.6220000000000001, 19.0]
+[-1.0, -0.6060000000000001, -15.0]
+[1.0, 0.552, 20.0]
+[1.0, 0.5780000000000001, 10.0]
+[-1.0, -0.482, -4.0]
+[-1.0, -0.3939999999999999, -11.0]
+[1.0, 0.3380000000000001, 16.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   17(10),    170: -1.1818000000000001e+01 (-3e+00,2e+01) |  5: 2.7e-01  0: 1.7e-01 | 1.6e-01 2.2e-01   1.78   | 1434.4  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[-1.0, -0.79, -14.0]
+[1.0, 0.744, 14.0]
+[1.0, 0.768, 14.0]
+[1.0, 0.754, 12.0]
+[-1.0, -0.6399999999999999, -11.0]
+[-1.0, -0.6639999999999999, -12.0]
+[1.0, 0.7, 12.0]
+[-1.0, -0.3360000000000001, -11.0]
+[1.0, 0.31600000000000006, 15.0]
+[1.0, 0.264, 12.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   18(10),    180: -1.0752000000000000e+01 (-4e+00,2e+01) |  5: 2.7e-01  0: 1.7e-01 | 1.6e-01 2.3e-01   1.87   | 1496.1  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.6839999999999999, 19.0]
+[1.0, 0.746, 13.0]
+[1.0, 0.722, 13.0]
+[1.0, 0.6459999999999999, 12.0]
+[1.0, 0.6679999999999999, 11.0]
+[-1.0, -0.6100000000000001, -16.0]
+[1.0, 0.51, 15.0]
+[1.0, 0.22199999999999998, 11.0]
+[-1.0, -0.28, -1.0]
+[-1.0, -0.30200000000000005, -11.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   19(10),    190: -1.2995999999999999e+01 (-2e+00,2e+01) |  5: 3.0e-01  4: 1.9e-01 | 1.7e-01 2.5e-01   1.92   | 1548.5  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[-1.0, -0.762, -13.0]
+[-1.0, -0.6739999999999999, -14.0]
+[1.0, 0.6140000000000001, 13.0]
+[1.0, 0.6000000000000001, 18.0]
+[1.0, 0.528, 16.0]
+[1.0, 0.4019999999999999, 13.0]
+[1.0, 0.32000000000000006, 12.0]
+[-1.0, -0.1379999999999999, -11.0]
+[1.0, 0.17199999999999993, 11.0]
+[0.0, -0.0, 0.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   20(10),    200: -1.0800000000000000e+01 (-4e+00,2e+01) |  5: 4.1e-01  4: 2.6e-01 | 2.2e-01 3.3e-01   1.97   | 1658.3  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[-1.0, -0.8779999999999999, -16.0]
+[-1.0, -0.8580000000000001, -16.0]
+[1.0, 0.778, 16.0]
+[1.0, 0.756, 13.0]
+[-1.0, -0.768, -14.0]
+[-1.0, -0.42399999999999993, -13.0]
+[1.0, 0.3620000000000001, 10.0]
+[1.0, 0.15399999999999991, 15.0]
+[0.0, -0.0, 0.0]
+[0.0, -0.21875, 14.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   21(10),    210: -1.2448000000000000e+01 (-2e+00,3e+01) |  5: 4.3e-01  4: 2.8e-01 | 2.4e-01 3.7e-01   2.10   | 1821.0  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.754, 15.0]
+[-1.0, -0.6859999999999999, -2.0]
+[-1.0, -0.6220000000000001, -5.0]
+[-1.0, -0.6180000000000001, -2.0]
+[1.0, 0.6020000000000001, 14.0]
+[-1.0, -0.476, -13.0]
+[1.0, 0.518, 12.0]
+[1.0, 0.48, 16.0]
+[1.0, 0.268, 11.0]
+[1.0, -0.052000000000000046, 11.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   22(10),    220: -1.1310000000000000e+01 (-3e+00,2e+01) |  3: 4.8e-01  4: 3.1e-01 | 2.7e-01 4.1e-01   2.05   | 1898.2  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[-1.0, -0.794, -15.0]
+[1.0, 0.51, 12.0]
+[-1.0, -0.43199999999999994, -13.0]
+[1.0, 0.44599999999999995, 12.0]
+[1.0, 0.42999999999999994, 15.0]
+[-1.0, -0.32400000000000007, -13.0]
+[1.0, 0.29800000000000004, 10.0]
+[1.0, 0.30200000000000005, 13.0]
+[1.0, -0.254, 10.0]
+[1.0, -0.44199999999999995, 4.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   23(10),    230: -6.4499999999999990e+00 (-8e+00,2e+01) |  5: 5.6e-01  4: 3.5e-01 | 3.2e-01 4.8e-01   2.02   | 1978.3  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.8440000000000001, 17.0]
+[1.0, 0.802, 14.0]
+[1.0, 0.71, 10.0]
+[1.0, 0.6319999999999999, 21.0]
+[1.0, 0.558, 15.0]
+[-1.0, -0.5980000000000001, -14.0]
+[-1.0, -0.538, -2.0]
+[1.0, 0.44199999999999995, 12.0]
+[1.0, 0.3540000000000001, 10.0]
+[-1.0, -0.1180000000000001, -11.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   24(10),    240: -1.4348000000000000e+01 (-3e-01,2e+01) |  3: 6.5e-01  4: 3.9e-01 | 3.6e-01 5.3e-01   2.05   | 2041.1  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.792, 13.0]
+[1.0, 0.738, 11.0]
+[1.0, 0.6859999999999999, 12.0]
+[1.0, 0.692, 16.0]
+[1.0, 0.6579999999999999, 15.0]
+[-1.0, -0.6060000000000001, -12.0]
+[1.0, 0.3919999999999999, 13.0]
+[-1.0, -0.31400000000000006, -13.0]
+[0.0, -0.1875, 12.0]
+[0.0, -0.28125, 18.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   25(10),    250: -1.1072000000000000e+01 (-4e+00,2e+01) |  3: 7.1e-01  4: 4.4e-01 | 4.1e-01 6.0e-01   2.00   | 2207.4  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.774, 13.0]
+[1.0, 0.756, 13.0]
+[1.0, 0.698, 12.0]
+[1.0, 0.714, 12.0]
+[1.0, 0.6699999999999999, 13.0]
+[1.0, 0.6739999999999999, 12.0]
+[-1.0, -0.6599999999999999, -13.0]
+[-1.0, -0.536, -15.0]
+[0.0, -0.15625, 10.0]
+[0.0, -0.0, 0.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   26(10),    260: -1.0062000000000001e+01 (-5e+00,2e+01) |  3: 7.1e-01  4: 4.2e-01 | 4.0e-01 6.0e-01   2.01   | 2321.1  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.778, 11.0]
+[1.0, 0.786, 12.0]
+[1.0, 0.742, 17.0]
+[1.0, 0.6779999999999999, 14.0]
+[-1.0, -0.6140000000000001, -12.0]
+[1.0, 0.6539999999999999, 15.0]
+[1.0, 0.6000000000000001, 18.0]
+[-1.0, -0.6080000000000001, -12.0]
+[-1.0, -0.252, -12.0]
+[0.0, -0.1875, 12.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   27(10),    270: -1.2614000000000000e+01 (-2e+00,2e+01) |  3: 6.0e-01  4: 3.7e-01 | 3.4e-01 5.2e-01   2.03   | 2511.4  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.7, 12.0]
+[-1.0, -0.6739999999999999, -15.0]
+[1.0, 0.6859999999999999, 10.0]
+[1.0, 0.6439999999999999, 15.0]
+[-1.0, -0.6859999999999999, -13.0]
+[1.0, 0.6459999999999999, 14.0]
+[1.0, 0.6499999999999999, 12.0]
+[-1.0, -0.6539999999999999, -12.0]
+[1.0, 0.6579999999999999, 11.0]
+[-1.0, -0.17799999999999994, -13.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   28(10),    280: -9.6599999999999980e+00 (-5e+00,2e+01) |  3: 5.3e-01  4: 3.2e-01 | 3.0e-01 4.6e-01   1.99   | 2565.2  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.794, 13.0]
+[-1.0, -0.712, -12.0]
+[1.0, 0.744, 18.0]
+[1.0, 0.718, 12.0]
+[-1.0, -0.6739999999999999, -12.0]
+[1.0, 0.6220000000000001, 10.0]
+[1.0, 0.6000000000000001, 17.0]
+[-1.0, -0.6200000000000001, -3.0]
+[-1.0, -0.5860000000000001, -1.0]
+[1.0, 0.28, 13.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   29(10),    290: -1.3392000000000000e+01 (-1e+00,2e+01) |  3: 5.3e-01  4: 3.3e-01 | 3.0e-01 4.8e-01   2.06   | 2621.1  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.76, 10.0]
+[-1.0, -0.712, -2.0]
+[1.0, 0.73, 15.0]
+[1.0, 0.6619999999999999, 13.0]
+[1.0, 0.694, 12.0]
+[-1.0, -0.544, -3.0]
+[1.0, 0.546, 10.0]
+[-1.0, -0.484, -1.0]
+[-1.0, -0.25, -11.0]
+[1.0, 0.27, 11.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   30(10),    300: -1.0950000000000000e+01 (-4e+00,1e+01) |  3: 4.7e-01  4: 2.8e-01 | 2.6e-01 4.2e-01   2.06   | 2677.6  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.766, 15.0]
+[-1.0, -0.776, -12.0]
+[1.0, 0.69, 16.0]
+[-1.0, -0.6599999999999999, -15.0]
+[1.0, 0.5660000000000001, 10.0]
+[1.0, 0.6319999999999999, 10.0]
+[1.0, 0.5900000000000001, 15.0]
+[1.0, 0.5700000000000001, 15.0]
+[-1.0, -0.5940000000000001, -11.0]
+[1.0, 0.51, 15.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   31(10),    310: -1.1490000000000000e+01 (-3e+00,2e+01) |  3: 4.7e-01  4: 2.9e-01 | 2.6e-01 4.3e-01   2.09   | 2713.6  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.768, 14.0]
+[-1.0, -0.778, -15.0]
+[-1.0, -0.73, -13.0]
+[1.0, 0.6699999999999999, 12.0]
+[1.0, 0.5800000000000001, 14.0]
+[1.0, 0.5800000000000001, 11.0]
+[-1.0, -0.526, -14.0]
+[1.0, 0.45599999999999996, 12.0]
+[-1.0, -0.3460000000000001, -2.0]
+[0.0, -0.0, 0.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   32(10),    320: -1.0752000000000000e+01 (-4e+00,2e+01) |  3: 4.7e-01  4: 2.9e-01 | 2.6e-01 4.3e-01   1.99   | 2819.7  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.75, 13.0]
+[1.0, 0.6799999999999999, 16.0]
+[-1.0, -0.6859999999999999, -13.0]
+[-1.0, -0.6699999999999999, -13.0]
+[1.0, 0.55, 16.0]
+[-1.0, -0.542, -11.0]
+[-1.0, -0.3999999999999999, -11.0]
+[1.0, 0.42599999999999993, 12.0]
+[-1.0, -0.3400000000000001, -12.0]
+[0.0, -0.15625, 10.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   33(10),    330: -1.0879999999999999e+01 (-4e+00,2e+01) |  3: 4.7e-01  4: 2.9e-01 | 2.7e-01 4.3e-01   1.92   | 2930.0  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.726, 15.0]
+[-1.0, -0.726, -20.0]
+[-1.0, -0.706, -11.0]
+[1.0, 0.6659999999999999, 13.0]
+[1.0, 0.698, 13.0]
+[1.0, 0.6379999999999999, 12.0]
+[1.0, 0.6399999999999999, 14.0]
+[-1.0, -0.486, -14.0]
+[-1.0, -0.3440000000000001, -14.0]
+[-1.0, -0.266, -2.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   34(10),    340: -1.0890000000000000e+01 (-4e+00,3e+01) |  3: 5.3e-01  4: 3.4e-01 | 3.0e-01 4.9e-01   1.90   | 2988.4  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[-1.0, -0.736, -13.0]
+[-1.0, -0.5940000000000001, -12.0]
+[1.0, 0.6399999999999999, 14.0]
+[1.0, 0.482, 15.0]
+[1.0, 0.51, 14.0]
+[1.0, 0.498, 16.0]
+[1.0, 0.30600000000000005, 14.0]
+[-1.0, -0.3520000000000001, -13.0]
+[1.0, 0.29600000000000004, 13.0]
+[-1.0, -0.258, -3.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   35(10),    350: -8.9599999999999990e+00 (-6e+00,2e+01) |  3: 4.7e-01  4: 2.9e-01 | 2.6e-01 4.2e-01   1.88   | 3050.0  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.8160000000000001, 14.0]
+[1.0, 0.782, 13.0]
+[-1.0, -0.74, -2.0]
+[1.0, 0.694, 14.0]
+[1.0, 0.6220000000000001, 14.0]
+[-1.0, -0.46799999999999997, -14.0]
+[-1.0, -0.31200000000000006, -2.0]
+[-1.0, 0.05800000000000005, -11.0]
+[0.0, -0.15625, 10.0]
+[0.0, -0.15625, 10.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   36(10),    360: -1.1424000000000001e+01 (-3e+00,2e+01) |  3: 5.3e-01  4: 3.2e-01 | 2.8e-01 4.5e-01   1.94   | 3170.0  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.8540000000000001, 15.0]
+[1.0, 0.802, 14.0]
+[1.0, 0.748, 14.0]
+[-1.0, -0.75, -14.0]
+[-1.0, -0.6020000000000001, -1.0]
+[1.0, 0.6519999999999999, 13.0]
+[-1.0, -0.5800000000000001, -14.0]
+[1.0, 0.538, 10.0]
+[-1.0, -0.22599999999999998, -1.0]
+[0.0, -0.0, 0.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   37(10),    370: -1.2810000000000002e+01 (-2e+00,2e+01) |  3: 5.3e-01  4: 3.2e-01 | 2.8e-01 4.5e-01   1.97   | 3271.8  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.8500000000000001, 14.0]
+[1.0, 0.744, 15.0]
+[1.0, 0.764, 14.0]
+[1.0, 0.752, 12.0]
+[-1.0, -0.728, -12.0]
+[1.0, 0.6679999999999999, 15.0]
+[-1.0, -0.526, -14.0]
+[1.0, 0.49, 14.0]
+[-1.0, -0.45599999999999996, -13.0]
+[-1.0, -0.272, -11.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   38(10),    380: -1.1900000000000002e+01 (-3e+00,2e+01) |  3: 4.6e-01  4: 2.7e-01 | 2.4e-01 4.0e-01   2.00   | 3324.4  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[-1.0, -0.736, -14.0]
+[1.0, 0.738, 12.0]
+[-1.0, -0.692, -13.0]
+[1.0, 0.6839999999999999, 10.0]
+[-1.0, -0.6799999999999999, -3.0]
+[-1.0, -0.3660000000000001, -2.0]
+[-1.0, -0.32600000000000007, -1.0]
+[-1.0, -0.252, -11.0]
+[1.0, 0.05800000000000005, 10.0]
+[1.0, 0.278, 11.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   39(10),    390: -8.8560000000000000e+00 (-6e+00,2e+01) |  3: 4.4e-01  4: 2.8e-01 | 2.3e-01 3.8e-01   1.96   | 3381.8  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.776, 18.0]
+[1.0, 0.75, 16.0]
+[-1.0, -0.6759999999999999, -1.0]
+[1.0, 0.692, 15.0]
+[1.0, 0.6619999999999999, 11.0]
+[1.0, 0.5700000000000001, 10.0]
+[-1.0, -0.6220000000000001, -15.0]
+[1.0, 0.554, 11.0]
+[1.0, 0.3680000000000001, 15.0]
+[0.0, -0.078125, 5.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   40(10),    400: -1.3968000000000000e+01 (-6e-01,2e+01) |  3: 4.3e-01  4: 3.1e-01 | 2.4e-01 3.8e-01   1.86   | 3485.0  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.8260000000000001, 15.0]
+[1.0, 0.788, 10.0]
+[1.0, 0.74, 14.0]
+[1.0, 0.762, 10.0]
+[1.0, 0.702, 13.0]
+[1.0, 0.694, 11.0]
+[1.0, 0.6259999999999999, 10.0]
+[1.0, 0.524, 12.0]
+[-1.0, -0.552, -17.0]
+[-1.0, -0.43399999999999994, -1.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   41(10),    410: -1.2390000000000000e+01 (-2e+00,2e+01) |  3: 3.7e-01  4: 2.6e-01 | 2.1e-01 3.3e-01   1.83   | 3529.1  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.8779999999999999, 13.0]
+[1.0, 0.8380000000000001, 14.0]
+[-1.0, -0.726, -12.0]
+[1.0, 0.734, 12.0]
+[-1.0, -0.692, -11.0]
+[1.0, 0.6180000000000001, 16.0]
+[-1.0, -0.698, -14.0]
+[-1.0, -0.6020000000000001, -3.0]
+[-1.0, -0.5840000000000001, -2.0]
+[-1.0, -0.262, -11.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   42(10),    420: -1.1732000000000001e+01 (-3e+00,2e+01) |  3: 3.8e-01  4: 2.6e-01 | 2.1e-01 3.3e-01   1.87   | 3585.5  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.804, 15.0]
+[-1.0, -0.69, -2.0]
+[1.0, 0.69, 10.0]
+[1.0, 0.55, 14.0]
+[-1.0, -0.5740000000000001, -13.0]
+[1.0, 0.538, 15.0]
+[-1.0, -0.4179999999999999, -1.0]
+[-1.0, -0.5860000000000001, -14.0]
+[1.0, 0.30800000000000005, 13.0]
+[0.0, -0.15625, 10.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   43(10),    430: -1.2060000000000000e+01 (-3e+00,2e+01) |  3: 3.4e-01  4: 2.3e-01 | 1.9e-01 3.1e-01   1.86   | 3697.1  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.742, 15.0]
+[-1.0, -0.738, -1.0]
+[1.0, 0.742, 16.0]
+[1.0, 0.6739999999999999, 13.0]
+[1.0, 0.5880000000000001, 11.0]
+[1.0, 0.3680000000000001, 13.0]
+[-1.0, -0.28800000000000003, -13.0]
+[-1.0, -0.276, -19.0]
+[-1.0, -0.29200000000000004, -2.0]
+[-1.0, -0.22599999999999998, -13.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   44(10),    440: -1.1872000000000000e+01 (-3e+00,2e+01) |  3: 3.1e-01  4: 2.1e-01 | 1.8e-01 2.9e-01   1.89   | 3760.5  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[-1.0, -0.79, -12.0]
+[-1.0, -0.754, -1.0]
+[1.0, 0.6439999999999999, 15.0]
+[1.0, 0.6419999999999999, 10.0]
+[1.0, 0.496, 15.0]
+[1.0, 0.44599999999999995, 12.0]
+[1.0, 0.3819999999999999, 13.0]
+[1.0, 0.3979999999999999, 12.0]
+[1.0, 0.3380000000000001, 12.0]
+[0.0, -0.15625, 10.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   45(10),    450: -9.6599999999999980e+00 (-5e+00,2e+01) |  3: 3.0e-01  4: 2.0e-01 | 1.7e-01 2.8e-01   1.81   | 3902.6  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.8280000000000001, 14.0]
+[-1.0, -0.8240000000000001, -15.0]
+[1.0, 0.778, 13.0]
+[1.0, 0.714, 14.0]
+[1.0, 0.5940000000000001, 12.0]
+[-1.0, -0.43599999999999994, -1.0]
+[1.0, 0.5720000000000001, 11.0]
+[1.0, 0.09800000000000009, 10.0]
+[1.0, 0.18599999999999994, 14.0]
+[0.0, -0.15625, 10.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   46(10),    460: -1.1592000000000000e+01 (-3e+00,2e+01) |  3: 3.1e-01  4: 1.9e-01 | 1.7e-01 2.7e-01   1.76   | 4013.5  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.756, 11.0]
+[1.0, 0.712, 11.0]
+[-1.0, -0.6699999999999999, -2.0]
+[1.0, 0.6739999999999999, 16.0]
+[-1.0, -0.6399999999999999, -1.0]
+[1.0, 0.562, 10.0]
+[1.0, 0.4079999999999999, 12.0]
+[1.0, 0.44199999999999995, 12.0]
+[-1.0, -0.21999999999999997, -12.0]
+[0.0, -0.0, 0.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   47(10),    470: -1.0783999999999999e+01 (-4e+00,1e+01) |  3: 2.9e-01  4: 1.8e-01 | 1.6e-01 2.6e-01   1.85   | 4134.6  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.718, 12.0]
+[1.0, 0.72, 12.0]
+[1.0, 0.694, 16.0]
+[1.0, 0.5700000000000001, 11.0]
+[-1.0, -0.542, -13.0]
+[1.0, 0.55, 15.0]
+[1.0, 0.3779999999999999, 11.0]
+[1.0, 0.17599999999999993, 12.0]
+[1.0, -0.050000000000000044, 14.0]
+[-1.0, 0.020000000000000018, -1.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   48(10),    480: -1.1104000000000000e+01 (-4e+00,2e+01) |  3: 2.7e-01  4: 1.7e-01 | 1.5e-01 2.4e-01   1.88   | 4209.2  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.798, 14.0]
+[1.0, 0.754, 15.0]
+[1.0, 0.702, 14.0]
+[-1.0, -0.6220000000000001, -11.0]
+[1.0, 0.6379999999999999, 14.0]
+[-1.0, -0.6439999999999999, -13.0]
+[1.0, 0.556, 13.0]
+[-1.0, -0.46399999999999997, -1.0]
+[1.0, 0.3460000000000001, 13.0]
+[0.0, -0.15625, 10.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   49(10),    490: -1.1310000000000000e+01 (-3e+00,2e+01) |  3: 2.5e-01  4: 1.6e-01 | 1.4e-01 2.4e-01   1.86   | 4318.0  0.0
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+CMAESMCTS
+MonteCarlo
+[1.0, 0.81, 11.0]
+[1.0, 0.738, 15.0]
+[1.0, 0.75, 15.0]
+[1.0, 0.716, 14.0]
+[1.0, 0.6220000000000001, 13.0]
+[1.0, 0.6659999999999999, 10.0]
+[1.0, 0.42999999999999994, 14.0]
+[-1.0, -0.43199999999999994, -12.0]
+[-1.0, -0.30200000000000005, -13.0]
+[-1.0, -0.43399999999999994, -2.0]
+Iteration,#Fevals: rb Function Value Delta( best ,worst) |idx: Max SD idx: Min SD  | minsigD  sigma Axisratio | time, in eig
+   50(10),    500: -1.1250000000000000e+01 (-3e+00,2e+01) |  3: 2.1e-01  4: 1.3e-01 | 1.2e-01 2.0e-01   1.86   | 4360.7  0.0
+CMAESMCTS
+MonteCarlo
+[1.0, 0.6699999999999999, 13.0]
+   50(10),    501: -1.1250000000000000e+01 (-3e+00,2e+01) |  3: 2.1e-01  4: 1.3e-01 | 1.2e-01 2.0e-01   1.86   | 4382.2  0.0
+Terminated due to
+  MaxIter: maximum number of iterations reached (iter=50,eval=500)
+best function value -14.616 at evaluation 148
+[0.4080106698079029, -0.4485600777879678, 0.624138883587953, 0.14364300341258796, 0.23777625609798816, 0.24745954474957693]

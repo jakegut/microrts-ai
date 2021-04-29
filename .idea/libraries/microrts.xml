@@ -2,8 +2,13 @@
   <library name="microrts">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/libs/microrts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/cmaes_java.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/cmaes_java.jar!/cma/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/cmaes_java.jar!/cma/src" />
+    </SOURCES>
   </library>
 </component>

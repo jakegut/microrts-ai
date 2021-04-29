@@ -10,6 +10,7 @@
  import ai.abstraction.pathfinding.BFSPathFinding;
  import ai.montecarlo.MonteCarlo;
  import com.jakegut.microrts.ExampleBot;
+ import com.jakegut.microrts.fitness.TerminalFitnessFunction;
  import gui.PhysicalGameStatePanel;
 
  import javax.swing.JFrame;
@@ -18,13 +19,19 @@
  import rts.PlayerAction;
  import rts.units.UnitTypeTable;
 
+ import java.util.Arrays;
+
  /**
   *
   * @author santi
   */
  public class GameVisualSimulationTest {
-     public static void main(String[] args) throws Exception {
-         UnitTypeTable utt = new UnitTypeTable();
+
+     public static void runGameTest(AI ai1, UnitTypeTable utt) throws Exception {
+         runGameTest(ai1, utt, new MonteCarlo(utt));
+     }
+
+     public static void runGameTest(AI ai1, UnitTypeTable utt, AI ai2) throws Exception {
          PhysicalGameState pgs = PhysicalGameState.load("maps/8x8/basesWorkers8x8A.xml", utt);
 //        PhysicalGameState pgs = MapGenerator.basesWorkers8x8Obstacle();
 
@@ -33,11 +40,11 @@
          boolean gameover = false;
 
 //         AI ai1 = new WorkerRush(utt, new BFSPathFinding());
-         AI ai1 = new MonteCarlo(utt);
-         AI ai2 = new RandomBiasedAI();
+//         AI ai1 = new MonteCarlo(utt);
 
          JFrame w = PhysicalGameStatePanel.newVisualizer(gs,640,640,false,PhysicalGameStatePanel.COLORSCHEME_BLACK);
 //        JFrame w = PhysicalGameStatePanel.newVisualizer(gs,640,640,false,PhysicalGameStatePanel.COLORSCHEME_WHITE);
+
 
          long nextTimeToUpdate = System.currentTimeMillis() + PERIOD;
          do{
@@ -61,6 +68,11 @@
          }while(!gameover);
          ai1.gameOver(gs.winner());
          ai2.gameOver(gs.winner());
+
+         System.out.println(gs.winner());
+         System.out.println(gs.getTime());
+
+         System.out.println(Arrays.toString(new TerminalFitnessFunction().getFitness(gs).t1));
 
          System.out.println("Game Over");
      }
